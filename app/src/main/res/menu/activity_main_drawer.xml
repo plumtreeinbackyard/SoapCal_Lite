@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/create_recipes">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/create_by_weight"
+                    android:title="@string/create_by_weight"
+                    android:icon="@drawable/ic_subdirectory_arrow_right_black_24dp"/>
+                <item
+                    android:id="@+id/create_by_percentage"
+                    android:title="@string/create_by_percentage"
+                    android:icon="@drawable/ic_subdirectory_arrow_right_black_24dp"/>
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/oil_properties"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="@string/oil_properties" />
+
+    <item
+        android:id="@+id/web_app"
+        android:icon="@drawable/outline_desktop_windows_black_24dp"
+        android:title="Web app" />
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/outline_feedback_black_24dp"
+        android:title="@string/feed_back" />
+
+    <item
+        android:id="@+id/shareApp"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share_app" />
+
+    <item
+        android:id="@+id/buy_me_a_coffee"
+        android:icon="@drawable/outline_local_cafe_black_24dp"
+        android:title="@string/buy_me_a_coffee" />
+
+    <item
+        android:id="@+id/other_apps_from_developer"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="@string/other_apps_from_developer" />
+
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "441387623604",
+    "firebase_url": "https://soapcal-soap-calculator.firebaseio.com",
+    "project_id": "soapcal-soap-calculator",
+    "storage_bucket": "soapcal-soap-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441387623604:android:412d8f193cc4c98f",
+        "android_client_info": {
+          "package_name": "appinventor.ai_plumtreeinbackyard.SoapCal_Lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441387623604-6juqjet771k8lcfevdatkh9ge0geda4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWpKPFnCymXbEmz4sjiO7Yj5KPirno2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

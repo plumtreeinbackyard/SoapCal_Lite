@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oil_name">
+        <item>Almond Oil, Sweet</item>
+        <item>Aloe Vera Butter</item>
+        <item>Apricot Kernel Oil</item>
+        <item>Avocado Oil</item>
+        <item>Babassu Nut Oil</item>
+        <item>Beeswax</item>
+        <item>Borage Oil</item>
+        <item>Camellia Oil</item>
+        <item>Canola Oil</item>
+        <item>Castor Oil</item>
+        <item>Cocoa Butter</item>
+        <item>Coconut Oil</item>
+        <item>Coconut Oil, fractionated</item>
+        <item>Corn Oil</item>
+        <item>Cotton seed Oil</item>
+        <item>Emu Oil</item>
+        <item>Evening Primrose Oil</item>
+        <item>Flax Seed Oil</item>
+        <item>Goat Fat</item>
+        <item>Grape Seed Oil</item>
+        <item>Hazelnut Oil</item>
+        <item>Hemp Seed Oil</item>
+        <item>Horse Oil</item>
+        <item>Jojoba Seed Oil</item>
+        <item>Kukui Nut Oil</item>
+        <item>Lard</item>
+        <item>Macadamia Nut Oil</item>
+        <item>Mango Butter</item>
+        <item>Mink Oil</item>
+        <item>Neem Tree Oil</item>
+        <item>Olive Oil</item>
+        <item>Palm Kernel Oil</item>
+        <item>Palm Oil</item>
+        <item>Palm olein</item>
+        <item>Peanut Oil</item>
+        <item>Pumpkin Seed Oil</item>
+        <item>Red Palm Oil</item>
+        <item>Rice Bran Oil</item>
+        <item>Rosehip Seed Oil</item>
+        <item>Safflower Oil</item>
+        <item>Sesame Seed Oil</item>
+        <item>Shea Butter</item>
+        <item>Shortening, Vegetable</item>
+        <item>Soybean Oil</item>
+        <item>Sunflower Seed Oil</item>
+        <item>Tallow, Beef</item>
+        <item>Walnut Oil</item>
+        <item>Wheat Germ Oil</item>
+    </string-array>
+</resources>

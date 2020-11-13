@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/list_row_view"
+    android:padding="6dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="oil"
+        android:textSize="16dp"
+        android:id="@+id/oil_name"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:ems="6"
+        android:background="@drawable/input_style"
+        android:id="@+id/oil_weight"
+        android:inputType="numberDecimal"
+        android:cursorVisible="true"
+        android:padding="2dp"
+        android:textSize="14dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/oil_weight_unit"
+        android:text="g"
+        android:paddingStart="6dp"
+        android:paddingLeft="6dp"
+        android:textSize="16dp"/>
+</LinearLayout>

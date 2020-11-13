@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="appinventor.ai_plumtreeinbackyard.SoapCal_Lite.CreateByWeight"
+    tools:showIn="@layout/activity_create_by_weight">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/adView_by_weight">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/choose_oil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/choose_oil"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/text_view_style"
+                android:clickable="true"
+                android:layout_marginTop="8dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/ll_selected_oil_list"
+                android:layout_below="@+id/choose_oil"
+                android:background="@color/greyBackground"
+                android:layout_marginTop="6dp">
+            </LinearLayout>
+
+            <TextView
+                android:text="@string/NaOH_discount"
+                android:textSize="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ll_selected_oil_list"
+                android:id="@+id/textView_NaOH_discount"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingRight="6dp"/>
+
+            <EditText
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_below="@+id/ll_selected_oil_list"
+                android:layout_toRightOf="@+id/textView_NaOH_discount"
+                android:layout_toEndOf="@+id/textView_NaOH_discount"
+                android:inputType="number|numberDecimal"
+                android:hint="5~10"
+                android:textColorHint="#c0bebe"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:id="@+id/editText_NaOH_discount"
+                android:background="@drawable/input_style"
+                android:layout_marginTop="6dp"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ll_selected_oil_list"
+                android:layout_toRightOf="@+id/editText_NaOH_discount"
+                android:layout_toEndOf="@+id/editText_NaOH_discount"
+                android:text="%"
+                android:textSize="16dp"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp"/>
+
+            <TextView
+                android:text="@string/NaOH_purity"
+                android:textSize="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_NaOH_discount"
+                android:id="@+id/textView_NaOH_purity"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingRight="6dp"/>
+
+            <EditText
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_NaOH_discount"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:inputType="number|numberDecimal"
+                android:hint="95~99"
+                android:textColorHint="#c0bebe"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:id="@+id/editText_NaOH_purity"
+                android:background="@drawable/input_style"
+                android:layout_marginTop="6dp"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/textView_NaOH_purity_percentage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_NaOH_discount"
+                android:layout_toRightOf="@+id/editText_NaOH_discount"
+                android:layout_toEndOf="@+id/editText_NaOH_discount"
+                android:text="%"
+                android:textSize="16dp"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp"/>
+
+            <ImageButton
+                android:id="@+id/ib_NaOH_purity_help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_NaOH_discount"
+                android:layout_toEndOf="@+id/textView_NaOH_purity_percentage"
+                android:background="@drawable/baseline_help_black_18dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="6dp"
+                android:scaleX="0.85"
+                android:scaleY="0.85"
+                android:clickable="true"
+                android:layout_toRightOf="@+id/textView_NaOH_purity_percentage" />
+
+            <TextView
+                android:text="@string/star_water"
+                android:textSize="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_NaOH_purity"
+                android:id="@+id/textView_water"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingRight="6dp"/>
+
+            <EditText
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_NaOH_purity"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:inputType="number|numberDecimal"
+                android:hint="2~3"
+                android:textColorHint="#c0bebe"
+                android:id="@+id/editText_water"
+                android:background="@drawable/input_style"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:layout_marginTop="6dp"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_below="@+id/editText_NaOH_purity"
+                android:layout_toRightOf="@+id/editText_water"
+                android:layout_toEndOf="@+id/editText_water"
+                android:text="@string/times_of_NaOH_weight"
+                android:textSize="16dp"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_water"
+                android:text="@string/superfatting"
+                android:textSize="16dp"
+                android:id="@+id/textView_sf"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingRight="6dp"/>
+
+            <EditText
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_water"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:id="@+id/editText_sf"
+                android:background="@drawable/input_style"
+                android:hint="1~5"
+                android:textColorHint="#c0bebe"
+                android:inputType="number|numberDecimal"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:layout_marginTop="6dp"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:text="@string/of_total_oil_weight"
+                android:textSize="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_water"
+                android:layout_toRightOf="@+id/editText_sf"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="26dp"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:background="@drawable/input_style"
+                android:hint="@string/superfatting_oil_name"
+                android:textColorHint="#c0bebe"
+                android:id="@+id/editText_sf_name"
+                android:textSize="16dp"
+                android:paddingStart="6dp"
+                android:paddingLeft="6dp"
+                android:layout_marginTop="6dp"
+                android:padding="1dp"
+                android:layout_below="@+id/editText_sf"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_sf_name"
+                android:text="@string/essential_oil"
+                android:textSize="16dp"
+                android:id="@+id/textView_eo"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingRight="6dp"/>
+
+            <EditText
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_sf_name"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:id="@+id/editText_eo"
+                android:background="@drawable/input_style"
+                android:hint="0~2"
+                android:textColorHint="#c0bebe"
+                android:inputType="number|numberDecimal"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:layout_marginTop="6dp"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:text="@string/of_total_soap_weight"
+                android:textSize="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_sf_name"
+                android:layout_toRightOf="@+id/editText_eo"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_eo"
+                android:layout_alignStart="@+id/editText_NaOH_discount"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:background="@drawable/input_style"
+                android:hint="@string/essential_oil_name"
+                android:textColorHint="#c0bebe"
+                android:id="@+id/editText_eo_name"
+                android:textSize="16dp"
+                android:layout_marginTop="6dp"
+                android:paddingStart="6dp"
+                android:paddingEnd="6dp"
+                android:padding="1dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_eo_name"
+                android:text="@string/additive"
+                android:textSize="16dp"
+                android:id="@+id/textView_additive"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingRight="6dp"/>
+
+            <EditText
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_eo_name"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:id="@+id/editText_additive"
+                android:background="@drawable/input_style"
+                android:hint="0~2"
+                android:textColorHint="#c0bebe"
+                android:inputType="number|numberDecimal"
+                android:textSize="16dp"
+                android:textAlignment="center"
+                android:layout_marginTop="6dp"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:text="@string/of_total_soap_weight"
+                android:textSize="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText_eo_name"
+                android:layout_toRightOf="@+id/editText_additive"
+                android:layout_marginTop="6dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="26dp"
+                android:layout_below="@+id/editText_additive"
+                android:layout_alignStart="@+id/editText_NaOH_discount"
+                android:layout_alignLeft="@+id/editText_NaOH_discount"
+                android:background="@drawable/input_style"
+                android:hint="@string/additive_name"
+                android:textColorHint="#c0bebe"
+                android:id="@+id/editText_additive_name"
+                android:textSize="16dp"
+                android:layout_marginTop="6dp"
+                android:paddingStart="6dp"
+                android:paddingEnd="6dp"
+                android:padding="1dp"/>
+
+                <Button
+                    android:layout_width="108dp"
+                    android:layout_height="38dp"
+                    android:text="@string/Cal"
+                    android:textSize="16dp"
+                    android:textColor="#fff"
+                    android:paddingTop="6dp"
+                    android:paddingBottom="6dp"
+                    android:id="@+id/btn_cal"
+                    android:textAllCaps="false"
+                    android:background="@drawable/main_color_button_style"
+                    android:layout_marginTop="12dp"
+                    android:layout_below="@+id/editText_additive_name"
+                    android:layout_alignStart="@+id/editText_NaOH_discount"
+                    android:layout_alignLeft="@+id/editText_NaOH_discount" />
+
+            <TextView
+                android:text="@string/calculating_method"
+                android:textSize="14dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btn_cal"
+                android:layout_marginTop="12dp"
+                android:paddingTop="2dp"
+                android:paddingLeft="6dp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView_by_weight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/by_weight_banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

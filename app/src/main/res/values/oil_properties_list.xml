@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oil_properties">
+        <item>Sweet Almond oil is a wonderful sub for some of the olive oil in a recipe.
+            \n\nIt contributes to: stable medium lather, conditioning, moisturizing, mild cleansing.
+            \n\nOften used for superfatting soaps. Sweet almond oil is often used as an emollient in skin creams and balms.</item>
+        <item>Aloe vera butter is an extract of aloe vera, aloe barbadensis, in a coconut fatty fraction.
+            \n\nAloe vera butter aids in rapid hydration of dry skin caused by eczema, psoriasis, rosacea, sun burn, wind burn,
+            and general chapping.</item>
+        <item>Apricot Kernel is a wonderful sub for some of the olive oil in a recipe.
+            \n\nIt is a smooth and lightweight oil, high in Vitamin A and minerals, often used for superfatting.
+            \n\nIt Contributes to stable medium lather, mild cleansing.
+            \n\nAlso popular as a massage oil, known for its ability to penetrate the skin without leaving an oily feel,
+            it has a superb texture that is great for all skin types.</item>
+        <item>Avocado oil is a wonderful sub for some of the olive oil in a recipe, often used for superfatting soaps.
+            It contributes to Medium lather, mild cleansing.
+            \n\nAvocado oil contains vitamins A, D, E and other minerals which makes it a great addition to facial bars or bars for elder skin.
+            \n\nAlso used in massage oils, creams, lotions and hair products.</item>
+        <item>Babassu oil is a great oil to use in place of coconut oil for those that have a coconut allergy.
+            \n\nContributes to: soap hardness, fluffy lather, quicker trace, high cleansing but a bit milder than coconut oil.
+            \n\n
+            Beneficial for both dry and oily complexions, gently moisturizing the skin without contributing to an oily sheen.
+            Especially suitable for eczema, itchy, dry and inflamed skin.</item>
+        <item>Beeswax can help make a somewhat harder bar of soap. Used at 1~3\%% of total oils,
+            acts as an emulsifier while stirring to trace and may help prevent soap ash while curing. Inhibits lather at higher amounts.
+            \n\nNatural, unrefined beeswax has the smell of honey which persists through saponification better than
+            if honey itself is used. Beeswax contains a high percentage of unsaponifiables.
+            \n\nBeeswax has emollient, soothing and softening properties and helps the skin retain moisture.</item>
+        <item>Contributes to: stable lather, conditioning. Goes rancid very quickly.
+            \n\nBorage oil is degraded by heat, light, humidity, and exposure to oxygen. It should be stored in a cool, dark place.
+            \n\nBorage oil is one of the richest sources of gamma linolenic acid plus
+            it contains important vitamins and minerals. It is often used in high end cosmetic formulations to nourish and
+            hydrate the skin. Said to be beneficial for maturing skin and for damaged skin where regeneration of new skin cells
+            is needed.</item>
+        <item>Camellia oil can be used to make soaps that are extra gentle for those with sensitive skin.
+            \n\nIt Contains antioxidants that help to revitalize and rejuvenate the hair, nails and skin.
+            \n\nThis oil will provide a small amount of hardness for your soap.</item>
+        <item>Contributes to: stable lather, conditioning, slower trace, softer soap.
+            \n\nUse canola oil to partially replace more expensive oils like olive.</item>
+        <item>15~20\%% castor oil is used in shampoo bars or shaving bars.
+            \n\nContributes to: fluffy lather, stable lather, conditioning, moisturizing, quicker trace, softer soap. Often used to superfat soaps.
+            \n\nCastor oil is unique in being almost entirely composed of ricinoleic fatty acid, found in no other oils and
+            possessing a high affinity for water molecules. This makes it an excellent humectant, attracting and holding moisture
+            to the skin.
+            \n\nCastor oil should be used at low percentages to avoid overly soft soaps.</item>
+        <item>Cocoa butter contributes to: soap hardness, mild stabilizing lotion like lather, conditioning, moisturizing, quicker trace.
+            \n\nWhen used as a superfatting oil it acts to lay down a protective layer which holds moisture to the skin.
+            It is an excellent moisturizer that melts at body temperature, leaving the skin feeling soft and silky smooth.
+            \n\nIt has a natural chocolate scent but it is also available in an unscented version.
+            \n\nCocoa butter contains natural antioxidants that help to prevent rancidity. </item>
+        <item>Contributes to: soap hardness, fluffy lather, large fluffy bubbles, quicker trace, high cleansing.
+            \n\nCoconut oil makes soaps lather beautifully
+            but can be drying when it makes up an overly large portion of your soap fats,
+            however you can always use a higher superfatting to counteract the drying effect.
+            It will make a very hard, white bar of soap that lathers well even in very hard water or sea water.
+            \n\nCoconut oil is light and not greasy and is resistant to spoiling. Used in skin care formulations,
+            coconut oil is emollient, moisturizing, conditioning and protecting to the skin.
+            This oil is solid at room temperatures under 76 degrees and liquid at higher temperatures.</item>
+        <item>Fractionated coconut oil is virgin coconut oil that has been distilled, allowing long-chain fatty acids to separate and solidify for removal.
+            What remains is an ultralight, odorless coconut oil that stays liquid in form at cooler temps.
+            \n\nThis oil is more easily absorbed by the skin, and less likely to clog pores than virgin coconut oil.
+            It also maintains a longer shelf life, nourishing medium-chain fatty acids and essential nutrients in this form. </item>
+        <item>Corn Oil contributes to: stable lather, conditioning, soft soap.</item>
+        <item>Cotton seed Oil contributes to: stable lather, conditioning, silky feel.
+            \n\nCottonseed oil produces thick and lasting lather, in addition to having emollient properties.
+            \n\nIt can be vulnerable to rancidity, depending on storage temperature and humidity. </item>
+        <item>Emu Oil is used as a superfatting oil in soapmaking.
+            \n\nEmu Oil is reported to help heal skin tissues and help draw other ingredients down into the skin
+            so they are more effective.</item>
+        <item>Evening Primrose Oil contributes to: stable lather, conditioning, emollience.
+            \n\nEvening primrose oil is an exceptionally fine textured oil, Absorbed quickly into the skin,
+            it is one of the most popular sources of an essential fatty acid called Gamma Linolenic Acid (GLA).
+            \n\nEvening primrose oil is said to be effective in helping those with dry skin, eczema and psoriasis.</item>
+        <item>Flax seed oil is said to soften and heal skin abrasions and scars, and to reduce swelling and
+            redness of rashes and lesions from skin disease. Also used in creams, lotions and balms.</item>
+        <item>Goat Fat has very little odder and makes a very hard bar.
+            100\%% tallow soap with no superfatting makes great laundry soap, which is hard and white with mild stabilizing creamy lather.
+            \n\nIt contributes to: soap hardness, stable lather, conditioning, quicker trace.</item>
+        <item>Grapeseed is a wonderful sub for some of the olive oil in a recipe. Medium lather, mild cleansing.
+            \n\nAlso used in soaps as a superfatting oil, grapeseed oil is a lightweight oil that absorbs into the skin quickly
+            without leaving a heavy greasy feeling.
+            \n\nIt has mildly astringent qualities and is said to be useful for acne and other skin complaints.</item>
+        <item>Hazelnut is a wonderful sub for some of the olive oil in a recipe.
+            \n\nContributes to: stable medium lather, conditioning, moisturizing, softer soap, slower trace.
+            \n\nHazelnut Oil has a soft, natural, nutty fragrance and contains vitamins, minerals, and protein.
+            \n\nIt is an excellent carrier for essential oils, hazelnut oil is very easily absorbed, leaving no oily residue.</item>
+        <item>Hemp Seed is a wonderful sub for some of the olive oil in a recipe.
+            \n\nContributes to: stable medium lather, conditioning, silky feel, softer soap, slower trace.
+            \n\nHemp seed oil is not as stable as some other oils and can spoil quickly.
+            It creates a silky bar of soap even if it is only used to superfat your batch.
+            Since it is prone to spoilage, keep it as a small percentage  of your mix to avoid having a soft soap
+            that may spoil in a few months. Store unused oil in the freezer or refrigerator.
+            \n\nFresh hemp seed oil has a green color which becomes lighter with age.
+            Hemp seed oil will warn you with a painty smell long before it is actually rancid.
+            \n\nIt is rich with proteins, vitamins, minerals, and essential fatty acids and is excellent for all skin and hair needs.</item>
+        <item>Horse oil is known for its healing properties and highly moisturizing capabilities.</item>
+        <item>Jojoba oil, a liquid wax, can kill lather when used in high amounts.
+            \n\nContributes to: stable lather, conditioning, moisturizing, quicker trace.
+            Actually mostly a liquid wax, jojoba does not lather much of itself, but rather acts to make existing lather
+            from other oils more stable and long lasting.
+            \n\nJojoba is good at conditioning skin. Because of its expense, it is usually used to superfat soap batches or in shampoo bars.
+            It is said to be an excellent emollient for skin conditions like psoriasis or acne
+            and has a chemical composition very close to the skin own sebum.
+            \n\nJojoba oil is easily absorbed by the skin and promotes silky smooth skin. Jojoba Oil is stable and long lasting.</item>
+        <item>Kukui Nut Oil contributes to: stable lather, conditioning, silky feel.
+            \n\nKukui nut oil is quickly absorbed into the skin. Excellent for skin conditioning after sun exposure
+            and is said to be beneficial for acne, eczema, and psoriasis.</item>
+        <item>Lard contributes to: soap hardness, mild stable creamy lather, conditioning, quicker trace.
+            \n\nIts advantages are that it is cheap, easily obtainable, and makes a nice lathery, white bar of soap.
+            \n\nThis fat should be combined with vegetable oils such as coconut or palm.
+            Without other oils it can tend to not work very well in cold water.</item>
+        <item>Macadamia Nut Oil contributes to: stable lather, conditioning, moisturizing, silky feel.
+            \n\nMacadamia has a long shelf life. It is easily absorbed into the skin and acts as an emollient.
+            It is said to protect skin cells from deterioration and thus lead to better skin condition.</item>
+        <item>Mango butter is yellowish and has almost no scent. It is a great moisturizer and should be used to superfat soap.</item>
+        <item>Mink oil has superior absorption and nurturing properties, it penetrates skin deeply and quickly without clogging pores.
+            \n\nIt lubricates skin, trapping moisture from the lower cell layers. It rehydrates skin, with a light barrier,
+            preventing evaporation of moisture throughout a day.
+            \n\nWhen used in soap, the bars are silky smooth. It is best to only use it up to 1.5\%% of your total oils
+            in your soap making recipes. You can use more but it will decrease the lather in your bar.
+            You can use it up to a 5\%% ratio, but no more. Add Coconut oil and Palm oils for nice, bubbly, lather.
+            Use it with Castor oil to counteract some of its effects.</item>
+        <item>Neem Tree Oil contributes to: stable lather, conditioning.
+            \n\nSaid to have the ability to treat a variety of skin disorders such as dandruff.</item>
+        <item>Olive Oil contributes to: soap hardness, stable lather, slippery feel, conditioning, moisturizing.
+            \n\nOlive Oil attracts external moisture to your skin, helping to keep skin soft and supple.
+            The low cleansing properties of olive oil make it very mild and nourishing.
+            Soap for sensitive skin, elder skin or baby skin should include high amounts of olive.
+            \n\nCastile soap is made with 100\%% olive oil, it has Low slippery lather, almost no bubbles, low cleansing.
+            It makes a very soft bar of soap initially upon unmolding but cures into a rock hard bar.
+            Soaps high in olive oil need longer to cure and unmold.</item>
+        <item>Palm kernel oil is a great sub for coconut oil. It can be used with coconut oil to add some hardness to the bar.
+            \n\nIt contributes to: soap hardness, fluffy lather, quicker trace.
+            \n\nPalm Kernel oil makes a soap that is very hard and lathers well.
+            It is processed from the core nut of the fruit of the same tropical oil palm plants
+            that palm oil is derived from, but its composition and properties are not similar to palm oil.
+            It is instead very similar to coconut oil and can be substituted for some of the coconut oil in soap formulas
+            to make a harder bar.
+            \n\nThis oil is solid at room temperatures.</item>
+        <item>Palm oil is great for those that do not want to use animal fats such as lard or tallow.
+            \n\nIt contributes to: soap hardness, mild stable lather, conditioning, silky feel, quicker trace.
+            \n\nPalm oil makes a hard bar that cleans well and is also mild.</item>
+        <item>Palm olein is the liquid fraction obtained during fractionation of palm oil.
+            \n\nIt contains higher amounts of oleic (39–45%) and linoleic acids (10–13%) compared to palm oil (Siew, 2002).</item>
+        <item>Peanut Oil contributes to: stable lather, conditioning, softer soap.
+            \n\nPeanut oil is prone to spoilage. It has a good amount of vitamin E.</item>
+        <item>Pumpkin seed oil is valued for its skin healing properties.
+            \n\nRich in antioxidants and essential fatty acids as well as high levels of Vitamins A, C and E.</item>
+        <item>Red palm oil, which is bright orange, gets it color from carotenes (like carrots and tomatoes).
+            It is bleached, refined and deodorized to give us the creamy palm oil that most of us are familiar with.
+            \n\nRed Palm oil helps to produce a nice hard bar with stable lather.
+            \n\nUsing too much within your recipe can produce an overly drying product.
+            Keep it at less then 50\%% of the oils used for hand bars and less then 30\%% for facial bars.</item>
+        <item>Rice Bran oil is a wonderful sub for some of the olive oil in a recipe.
+            \n\nIt contributes to: stable medium lather, mild cleansing, gives soap a sheen making it look less dull.
+            \n\nRice bran oil is moisturizing and is a good choice for inclusion in formulations intended for mature,
+            delicate or sensitive skin.</item>
+        <item>Rosehip Seed Oil is believed to be the best oil available for antiageing and skin rejuvenation
+            making it a good choice for use in soap and skin care products.</item>
+        <item>Safflower oil is a wonderful sub for some of the olive oil in a recipe.
+            \n\nIt contributes to: stable medium lather, conditioning, moisturizing, silky feel, softer soap.
+            \n\nSafflower oil is an unsaturated oil, valuable for its moisturizing properties.
+            Limited shelf life. It has an exceptionally high linoleic acid content and is an excellent moisturizing choice
+            for in skin creams and lotions.</item>
+        <item>Sesame Seed Oil contributes to: stable lather, conditioning, moisturizing, silky feel, softer soap.
+            \n\nSesame oil makes a good superfatting oil. Has a strong nutty scent.
+            Sesame oil has excellent longevity in massage preparations and is said to be good for psoriasis, eczema, rheumatism,
+            and arthritis.</item>
+        <item>Shea butter can produce hard, long lasting bar with mild stabilizing lotion like lather.
+            \n\nIt contributes to: soap hardness, stable lather, conditioning, silky, slippery feel, quicker trace.
+            Shea butter is a popular superfatting agent and contains a large percentage of ingredients
+            that do not react with the lye, thus remaining in the soap to nourish your skin.
+            \n\nShea butter is said to be beneficial for treating dry skin, blemishes, skin discoloration, scars and wrinkles.</item>
+        <item>Vegetable shortening performs similarly as palm oil.</item>
+        <item>Soybean oil is a wonderful sub for some of the olive oil in a recipe.
+            \n\nIt contributes to: stable medium lather, conditioning, slower trace, mild cleansing.</item>
+        <item>Sunflower oil is a wonderful sub for some of the olive oil in a recipe.
+            \n\nIt contributes to: stable medium lather, conditioning, silky feel, softer soap, slower trace.
+            \n\nSunflower oil contains Vitamin E, so it naturally resists going rancid.</item>
+        <item>100\%% tallow soap with no superfatting makes great laundry soap, which is hard and white with mild stabilizing creamy lather.
+            \n\nIt contributes to: soap hardness, stable lather, conditioning, quicker trace.</item>
+        <item>Walnut Oil is an emollient oil which is said to help regenerate, tone and moisturize damaged dry skin
+            and to aid in preventing wrinkles, controlling eczema, dandruff and rough, dry or sunburned skin.</item>
+        <item>Wheat Germ Oil contributes to: stable lather, conditioning.
+            \n\nWheat germ oil is emollient, antioxidant and rich in natural vitamin E. Can be used to nourish dry
+            or cracked skin and soothes skin problems such as eczema and psoriasis.
+            \n\nWheat germ oil should be kept refrigerated.</item>
+    </string-array>
+</resources>

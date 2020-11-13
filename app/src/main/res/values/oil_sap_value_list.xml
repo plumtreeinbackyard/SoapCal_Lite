@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oil_sap_value">
+        <item>0.138</item>
+        <item>0.178</item>
+        <item>0.138</item>
+        <item>0.137</item>
+        <item>0.174</item>
+        <item>0.065</item>
+        <item>0.135</item>
+        <item>0.138</item>
+        <item>0.133</item>
+        <item>0.130</item>
+        <item>0.137</item>
+        <item>0.184</item>
+        <item>0.232</item>
+        <item>0.138</item>
+        <item>0.138</item>
+        <item>0.135</item>
+        <item>0.134</item>
+        <item>0.135</item>
+        <item>0.138</item>
+        <item>0.134</item>
+        <item>0.134</item>
+        <item>0.134</item>
+        <item>0.143</item>
+        <item>0.066</item>
+        <item>0.135</item>
+        <item>0.141</item>
+        <item>0.139</item>
+        <item>0.137</item>
+        <item>0.143</item>
+        <item>0.139</item>
+        <item>0.136</item>
+        <item>0.178</item>
+        <item>0.145</item>
+        <item>0.143</item>
+        <item>0.138</item>
+        <item>0.138</item>
+        <item>0.145</item>
+        <item>0.134</item>
+        <item>0.133</item>
+        <item>0.135</item>
+        <item>0.136</item>
+        <item>0.133</item>
+        <item>0.135</item>
+        <item>0.137</item>
+        <item>0.135</item>
+        <item>0.140</item>
+        <item>0.138</item>
+        <item>0.132</item>
+    </string-array>
+</resources>
